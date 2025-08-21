@@ -95,4 +95,4 @@ This **separation of concerns** makes the codebase **clean, reusable, and easy t
 Thank you for exploring this **Places App Backend project.**  
 It demonstrates a **modern backend setup** with Node.js, Express, MongoDB, Cloudinary, and Google Maps API, forming a powerful service layer for full-stack applications.  
 
-This backend ensures **security, scalability, and integration with cloud services**, making it **production-ready real-world projects**.
+This backend ensures **security, scalability, and integration with cloud services**, making it **production-ready for real-world projects**.
